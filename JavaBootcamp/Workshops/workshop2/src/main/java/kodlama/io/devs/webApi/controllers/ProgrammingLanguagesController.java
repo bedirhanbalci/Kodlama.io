@@ -41,6 +41,4 @@ public class ProgrammingLanguagesController {
     public List<ProgrammingLanguage> getAll() {
         return programmingLanguageService.getAll();
     }
-
-
 }

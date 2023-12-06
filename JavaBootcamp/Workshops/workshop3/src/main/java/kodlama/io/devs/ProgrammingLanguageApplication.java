@@ -1,12 +1,13 @@
-package kodlama.io.rentACar;
+package kodlama.io.devs;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class RentACarApplication {
+public class ProgrammingLanguageApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(RentACarApplication.class, args);
+        SpringApplication.run(ProgrammingLanguageApplication.class, args);
     }
 
 }

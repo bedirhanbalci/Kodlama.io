@@ -1,3 +1,5 @@
+package coffeeShop;
+
 import coffeeShop.abstracts.BaseCustomerManager;
 import coffeeShop.adapters.MernisServiceAdapter;
 import coffeeShop.concretes.StarbucksCustomerManager;

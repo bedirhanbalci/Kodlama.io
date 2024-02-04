@@ -1,6 +1,6 @@
 # Kodlama.io
 
-## Kodlama.io platformunda izlediğim Java Bootcamp' lerinin ders içerikleri ve ödevleri burada yer almaktadır.
+## Kodlama.io platformunda izlediğim Bootcamp'lerin ders içerikleri ve ödevleri burada yer almaktadır.
 
 ![Engin Demiroğ Logo Çalışması 9000x2000](https://github.com/bedirhanbalci/Kodlama.io/assets/61194064/07916259-3c30-4989-8e3c-dc58abc5da2d)
 
